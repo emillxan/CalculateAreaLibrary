@@ -1,4 +1,6 @@
-﻿namespace CalculateAreaLibrary.Interfaces;
+﻿using CalculateAreaLibrary.Interfaces;
+
+namespace CalculateAreaLibrary.Implementations;
 
 public class Triangle : IShape
 {

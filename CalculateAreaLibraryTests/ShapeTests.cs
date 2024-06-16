@@ -1,4 +1,5 @@
 ﻿using CalculateAreaLibrary.Factories;
+using CalculateAreaLibrary.Implementations;
 using CalculateAreaLibrary.Interfaces;
 
 namespace CalculateAreaLibraryTests;
